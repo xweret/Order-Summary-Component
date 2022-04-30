@@ -1,0 +1,39 @@
+.attribution {
+  padding-left: 40%;
+  align-items: center;
+}
+
+body {
+  background-color: gray ;
+  text-align: center;
+}
+
+.container {
+  background-image: url(images/pattern-background-desktop.svg);
+  background-color: #cddafe;
+  width: 1443px;
+  height: 900px;
+  background-repeat: no-repeat;
+  position: relative;
+  left: 8rem;
+  margin-top: 4rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  
+  
+}
+
+.card {
+  background-color: white;
+  position: relative;
+  width: 32%;
+  height: 70%;
+  margin: 4rem;
+  top: 5%;
+  align-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+  
+}
+

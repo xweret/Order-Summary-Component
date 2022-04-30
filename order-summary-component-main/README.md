@@ -1,2 +1,0 @@
-# Order Summary Component
- 
