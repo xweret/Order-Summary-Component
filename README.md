@@ -1,4 +1,4 @@
-Full responsive desing, for complete this front end mentor challenge:  https://www.frontendmentor.io/challenges 
+Full responsive desing, for complete a front-end mentor challenge ( https://www.frontendmentor.io/challenges ) 
 
 This is my result: 
 
